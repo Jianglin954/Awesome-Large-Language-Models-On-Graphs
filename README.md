@@ -6,7 +6,7 @@
  This is a collection of awesome papers on the topic of **Large Language Models (LLMs) on Graphs**, which is organized by their published years. The repository will be be continuously updated, so stay tuned. If you found any error or any missed paper, please don't hesitate to open issues or pull requests. Any suggestions and comments are welcome (jianglinlu@outlook.com).
  
  
-## Year 2023
+## Year 2023 [[Back to Top]](#)
 
 1. [2023] **Planning with Logical Graph-based Language Model for Instruction Generation** [[paper]](https://arxiv.org/pdf/2308.13782.pdf)
 
@@ -60,7 +60,7 @@
 
 
 
-## Year 2022
+## Year 2022 [[Back to Top]](#)
 
 1. [NeurIPS 2022] **Deep Bidirectional Language-Knowledge Graph Pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Paper-Conference.pdf)
 
@@ -75,7 +75,7 @@
 1. [arXiv 2022] **Endowing Language Models with Multimodal Knowledge Graph Representations** [[paper]](https://arxiv.org/pdf/2206.13163.pdf)
 
 
-## Year 2021
+## Year 2021 [[Back to Top]](#)
 
 
 1. [Briefings in Bioinformatics 2021] **Enriching Contextualized Language Model from Knowledge Graph for Biomedical Information Extraction** [[paper]](https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405)
@@ -87,7 +87,7 @@
 1. [ACL 2021] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://aclanthology.org/2021.naacl-main.45.pdf)
 
 
-## Year 2020
+## Year 2020 [[Back to Top]](#)
 
 1. [EMNLP 2020] **BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models** [[paper]](https://aclanthology.org/2020.findings-emnlp.207.pdf)
 
