@@ -27,10 +27,10 @@
 ## Year 2022
 
 
-1. [arXiv 2022] **Deep bidirectional language-knowledge graph pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)
-
+1. [NeurIPS 2022] **Deep bidirectional language-knowledge graph pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)
+1. [ICLR 2022] **Greaselm: Graph reasoning enhanced language models** [[paper]](https://openreview.net/forum?id=41e9o6cQPj)
 
 ## Year 2021
 
-1. [arXiv 2021] **Greaselm: Graph reasoning enhanced language models** [[paper]](https://openreview.net/forum?id=41e9o6cQPj)
-1. [arXiv 2021] **Enriching contextualized language model from knowledge graph for biomedical information extraction** [[paper]](https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405)
+
+1. [Briefings in Bioinformatics 2021] **Enriching contextualized language model from knowledge graph for biomedical information extraction** [[paper]](https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405)
