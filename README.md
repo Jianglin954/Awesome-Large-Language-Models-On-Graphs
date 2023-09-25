@@ -8,26 +8,26 @@
  
 ## Year 2023
 
-1. [arXiv 2023] ** Graph of thoughts: Solving elaborate problems with large language models** [[paper]](https://arxiv.org/abs/2308.09687)
+1. [arXiv 2023] **Graph of thoughts: Solving elaborate problems with large language models** [[paper]](https://arxiv.org/abs/2308.09687)
 
-1. [arXiv 2023] ** Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph** [[paper]](https://arxiv.org/abs/2307.07697)
+1. [arXiv 2023] **Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph** [[paper]](https://arxiv.org/abs/2307.07697)
 
-1. [arXiv 2023] ** Exploring large language model for graph data understanding in online job recommendations** [[paper]](https://arxiv.org/abs/2307.05722)
+1. [arXiv 2023] **Exploring large language model for graph data understanding in online job recommendations** [[paper]](https://arxiv.org/abs/2307.05722)
 
-1. [arXiv 2023] ** Exploring the potential of large language models (llms) in learning on graphs** [[paper]](https://arxiv.org/abs/2307.03393)
+1. [arXiv 2023] **Exploring the potential of large language models (llms) in learning on graphs** [[paper]](https://arxiv.org/abs/2307.03393)
 
-1. [arXiv 2023] ** Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[paper]](https://arxiv.org/abs/2308.11224)
+1. [arXiv 2023] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[paper]](https://arxiv.org/abs/2308.11224)
 
-1. [arXiv 2023] ** GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text** [[paper]](https://arxiv.org/abs/2308.06911)
+1. [arXiv 2023] **GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text** [[paper]](https://arxiv.org/abs/2308.06911)
 
-1. [arXiv 2023] ** Enhancing Recommender Systems with Large Language Model Reasoning Graphs** [[paper]](https://arxiv.org/abs/2308.10835)
+1. [arXiv 2023] **Enhancing Recommender Systems with Large Language Model Reasoning Graphs** [[paper]](https://arxiv.org/abs/2308.10835)
 
 
 
 ## Year 2022
 
 
-1. [arXiv 2022] ** Deep bidirectional language-knowledge graph pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)
+1. [arXiv 2022] **Deep bidirectional language-knowledge graph pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)
 
 
 ## Year 2021
