@@ -8,7 +8,9 @@
  
 ## Year 2023 [[Back to Top]](#)
 
-1. [2023] **Planning with Logical Graph-based Language Model for Instruction Generation** [[paper]](https://arxiv.org/pdf/2308.13782.pdf)
+1. [arXiv 2023] **Large Graph Models: A Perspective** [[paper]](https://arxiv.org/pdf/2308.14522.pdf)
+
+1. [arXiv 2023] **Planning with Logical Graph-based Language Model for Instruction Generation** [[paper]](https://arxiv.org/pdf/2308.13782.pdf)
 
 1. [ACL 2023] **BertNet: Harvesting Knowledge Graphs with Arbitrary Relations from Pretrained Language Models** [[paper]](https://aclanthology.org/2023.findings-acl.309.pdf)
 
@@ -44,7 +46,7 @@
 
 1. [arXiv 2023] **Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations** [[paper]](https://arxiv.org/pdf/2307.05722.pdf)
 
-1. [arXiv 2023] **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs** [[paper]](https://arxiv.org/pdf/2307.03393.pdf)
+1. [arXiv 2023] **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs** [[paper]](https://arxiv.org/pdf/2307.03393.pdf) [[Code]](https://github.com/CurryTang/Graph-LLM)
 
 1. [arXiv 2023] **GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking** [[paper]](https://arxiv.org/pdf/2305.15066.pdf)
 
@@ -70,6 +72,8 @@
 
 1. [ACL 2022] **SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models** [[paper]](https://aclanthology.org/2022.acl-long.295.pdf)
 
+1. [ACL 2022] **A Framework for Adapting Pre-Trained Language Models to Knowledge Graph Completion** [[paper]](https://aclanthology.org/2022.emnlp-main.398.pdf)
+
 1. [EMNLP 2022] **Empowering Language Models with Knowledge Graph Reasoning for Question Answering** [[paper]](https://aclanthology.org/2022.emnlp-main.650.pdf)
 
 1. [arXiv 2022] **Endowing Language Models with Multimodal Knowledge Graph Representations** [[paper]](https://arxiv.org/pdf/2206.13163.pdf)
@@ -86,10 +90,16 @@
 
 1. [ACL 2021] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://aclanthology.org/2021.naacl-main.45.pdf)
 
+1. [ACL 2021] **Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training** [[paper]](https://aclanthology.org/2021.naacl-main.278.pdf)
+
+1. [ACL 2021] **Investigating Pretrained Language Models for Graph-to-Text Generation** [[paper]](https://aclanthology.org/2021.nlp4convai-1.20.pdf)
 
 ## Year 2020 [[Back to Top]](#)
 
 1. [EMNLP 2020] **BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models** [[paper]](https://aclanthology.org/2020.findings-emnlp.207.pdf)
 
-## Useful Links
+## Others
+
+1. [arXiv 2023] **On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large Language Models** [[paper]](https://arxiv.org/pdf/2307.09793.pdf)
+
 1. **Knowledge Graphs + Large Language Models = The ability for users to ask their own questions?** [[page]](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
