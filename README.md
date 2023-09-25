@@ -8,13 +8,13 @@
  
 ## Year 2023
 
-1. [arXiv 2023] **Graph of thoughts: Solving elaborate problems with large language models** [[paper]](https://arxiv.org/abs/2308.09687)
+1. [arXiv 2023] **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** [[paper]](https://arxiv.org/abs/2308.09687)
 
-1. [arXiv 2023] **Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph** [[paper]](https://arxiv.org/abs/2307.07697)
+1. [arXiv 2023] **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph** [[paper]](https://arxiv.org/abs/2307.07697)
 
-1. [arXiv 2023] **Exploring large language model for graph data understanding in online job recommendations** [[paper]](https://arxiv.org/abs/2307.05722)
+1. [arXiv 2023] **Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations** [[paper]](https://arxiv.org/abs/2307.05722)
 
-1. [arXiv 2023] **Exploring the potential of large language models (llms) in learning on graphs** [[paper]](https://arxiv.org/abs/2307.03393)
+1. [arXiv 2023] **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs** [[paper]](https://arxiv.org/abs/2307.03393)
 
 1. [arXiv 2023] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[paper]](https://arxiv.org/abs/2308.11224)
 
@@ -27,10 +27,10 @@
 ## Year 2022
 
 
-1. [NeurIPS 2022] **Deep bidirectional language-knowledge graph pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)
-1. [ICLR 2022] **Greaselm: Graph reasoning enhanced language models** [[paper]](https://openreview.net/forum?id=41e9o6cQPj)
+1. [NeurIPS 2022] **Deep Bidirectional Language-Knowledge Graph Pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)
+1. [ICLR 2022] **Greaselm: Graph Reasoning Enhanced Language Models** [[paper]](https://openreview.net/forum?id=41e9o6cQPj)
 
 ## Year 2021
 
 
-1. [Briefings in Bioinformatics 2021] **Enriching contextualized language model from knowledge graph for biomedical information extraction** [[paper]](https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405)
+1. [Briefings in Bioinformatics 2021] **Enriching Contextualized Language Model from Knowledge Graph for Biomedical Information Extraction** [[paper]](https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405)
