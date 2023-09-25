@@ -98,6 +98,8 @@
 
 1. [EMNLP 2020] **BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models** [[paper]](https://aclanthology.org/2020.findings-emnlp.207.pdf)
 
+1. [AAAI 2020] **KG-BERT: BERT for Knowledge Graph Completion** [[paper]](https://arxiv.org/pdf/1909.03193.pdf)
+
 ## Others
 
 1. [arXiv 2023] **On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large Language Models** [[paper]](https://arxiv.org/pdf/2307.09793.pdf)
