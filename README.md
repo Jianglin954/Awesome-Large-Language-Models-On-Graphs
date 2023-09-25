@@ -15,23 +15,23 @@
 
 1. [arXiv 2023] **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning** [[paper]](https://arxiv.org/pdf/2307.06135.pdf)
 
-1. [arXiv 2023] **Enhancing Reasoning Capabilities of Large Language Models: A Graph-Based Verification Approach** [[paper]](https://arxiv.org/abs/2308.09267)
+1. [arXiv 2023] **Enhancing Reasoning Capabilities of Large Language Models: A Graph-Based Verification Approach** [[paper]](https://arxiv.org/pdf/2308.09267.pdf)
 
-1. [arXiv 2023] **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** [[paper]](https://arxiv.org/abs/2308.09729)
+1. [arXiv 2023] **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** [[paper]](https://arxiv.org/pdf/2308.09729.pdf)
 
-1. [arXiv 2023] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[paper]](https://arxiv.org/abs/2308.11224)
+1. [arXiv 2023] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[paper]](https://arxiv.org/pdf/2308.11224.pdf)
 
-1. [arXiv 2023] **Enhancing Recommender Systems with Large Language Model Reasoning Graphs** [[paper]](https://arxiv.org/abs/2308.10835)
+1. [arXiv 2023] **Enhancing Recommender Systems with Large Language Model Reasoning Graphs** [[paper]](https://arxiv.org/pdf/2308.10835.pdf)
 
-1. [arXiv 2023] **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** [[paper]](https://arxiv.org/abs/2308.09687)
+1. [arXiv 2023] **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** [[paper]](https://arxiv.org/pdf/2308.09687.pdf)
 
-1. [arXiv 2023] **GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text** [[paper]](https://arxiv.org/abs/2308.06911)
+1. [arXiv 2023] **GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text** [[paper]](https://arxiv.org/pdf/2308.06911.pdf)
 
-1. [arXiv 2023] **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph** [[paper]](https://arxiv.org/abs/2307.07697)
+1. [arXiv 2023] **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph** [[paper]](https://arxiv.org/pdf/2307.07697.pdf)
 
-1. [arXiv 2023] **Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations** [[paper]](https://arxiv.org/abs/2307.05722)
+1. [arXiv 2023] **Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations** [[paper]](https://arxiv.org/pdf/2307.05722.pdf)
 
-1. [arXiv 2023] **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs** [[paper]](https://arxiv.org/abs/2307.03393)
+1. [arXiv 2023] **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs** [[paper]](https://arxiv.org/pdf/2307.03393.pdf)
 
 1. [arXiv 2023] **GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking** [[paper]](https://arxiv.org/pdf/2305.15066.pdf)
 
@@ -44,9 +44,9 @@
 ## Year 2022
 
 
-1. [NeurIPS 2022] **Deep Bidirectional Language-Knowledge Graph Pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)
+1. [NeurIPS 2022] **Deep Bidirectional Language-Knowledge Graph Pretraining** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Paper-Conference.pdf)
 
-1. [ICLR 2022] **Greaselm: Graph Reasoning Enhanced Language Models** [[paper]](https://openreview.net/forum?id=41e9o6cQPj)
+1. [ICLR 2022] **Greaselm: Graph Reasoning Enhanced Language Models** [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
 
 1. [AAAI 2022] **Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21286)
 
