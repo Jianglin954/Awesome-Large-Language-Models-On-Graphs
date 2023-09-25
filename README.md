@@ -70,6 +70,8 @@
 
 1. [ACL 2022] **SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models** [[paper]](https://aclanthology.org/2022.acl-long.295.pdf)
 
+1. [EMNLP 2022] **Empowering Language Models with Knowledge Graph Reasoning for Question Answering** [[paper]](https://aclanthology.org/2022.emnlp-main.650.pdf)
+
 1. [arXiv 2022] **Endowing Language Models with Multimodal Knowledge Graph Representations** [[paper]](https://arxiv.org/pdf/2206.13163.pdf)
 
 
@@ -79,6 +81,15 @@
 1. [Briefings in Bioinformatics 2021] **Enriching Contextualized Language Model from Knowledge Graph for Biomedical Information Extraction** [[paper]](https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405)
 
 1. [NeurIPS Workshop 2021] **Grapher: Multi-Stage Knowledge Graph Construction using Pretrained Language Models** [[paper]](https://openreview.net/pdf?id=N2CFXG8-pRd)
+
+1. [ACL 2021] **Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models** [[paper]](https://aclanthology.org/2021.findings-acl.136.pdf)
+
+1. [ACL 2021] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://aclanthology.org/2021.naacl-main.45.pdf)
+
+
+## Year 2020
+
+1. [EMNLP 2020] **BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models** [[paper]](https://aclanthology.org/2020.findings-emnlp.207.pdf)
 
 ## Useful Links
 1. **Knowledge Graphs + Large Language Models = The ability for users to ask their own questions?** [[page]](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
