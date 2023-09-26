@@ -7,6 +7,7 @@
  
  
 ## Year 2023 [[Back to Top]](#)
+1. [arXiv 2023] **Explanations as Features: LLM-Based Features for Text-Attributed Graphs** [[paper]](https://arxiv.org/pdf/2305.19523.pdf) [[Code]](https://github.com/XiaoxinHe/TAPE) [[Author]](https://xiaoxinhe.github.io/)
 
 1. [arXiv 2023] **Large Graph Models: A Perspective** [[paper]](https://arxiv.org/pdf/2308.14522.pdf)
 
@@ -38,7 +39,7 @@
 
 1. [arXiv 2023] **Enhancing Recommender Systems with Large Language Model Reasoning Graphs** [[paper]](https://arxiv.org/pdf/2308.10835.pdf)
 
-1. [arXiv 2023] **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** [[paper]](https://arxiv.org/pdf/2308.09687.pdf) [[Code]]()
+1. [arXiv 2023] **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** [[paper]](https://arxiv.org/pdf/2308.09687.pdf) [[Code]](https://github.com/spcl/graph-of-thoughts) [[Author]](https://people.inf.ethz.ch/bestam/index.html)
 
 1. [arXiv 2023] **GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text** [[paper]](https://arxiv.org/pdf/2308.06911.pdf)
 
@@ -101,6 +102,10 @@
 1. [AAAI 2020] **KG-BERT: BERT for Knowledge Graph Completion** [[paper]](https://arxiv.org/pdf/1909.03193.pdf)
 
 ## Others
+
+1. **Awesome-Graph-LLM** [[page]](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+
+1. **KG-LLM-Papers** [[page]](https://github.com/zjukg/KG-LLM-Papers)
 
 1. [arXiv 2023] **On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large Language Models** [[paper]](https://arxiv.org/pdf/2307.09793.pdf)
 
