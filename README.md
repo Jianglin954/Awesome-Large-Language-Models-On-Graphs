@@ -7,6 +7,9 @@
  
  
 ## Year 2023 [[Back to Top]](#)
+
+1. [ICLR 2023] **Learning on Large-scale Text-attributed Graphs via Variational Inference** [[paper]](https://openreview.net/pdf?id=q0nmYciuuZN) [[Code]](https://github.com/AndyJZhao/GLEM) [[Author]](https://andyjzhao.github.io/)
+
 1. [arXiv 2023] **Explanations as Features: LLM-Based Features for Text-Attributed Graphs** [[paper]](https://arxiv.org/pdf/2305.19523.pdf) [[Code]](https://github.com/XiaoxinHe/TAPE) [[Author]](https://xiaoxinhe.github.io/)
 
 1. [arXiv 2023] **Large Graph Models: A Perspective** [[paper]](https://arxiv.org/pdf/2308.14522.pdf)
