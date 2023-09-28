@@ -8,6 +8,8 @@
  
 ## Year 2023 [[Back to Top]](#)
 
+1. [arXiv 2023] **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs** [[paper]](https://arxiv.org/pdf/2304.10668.pdf)
+
 1. [ICLR 2023] **Learning on Large-scale Text-attributed Graphs via Variational Inference** [[paper]](https://openreview.net/pdf?id=q0nmYciuuZN) [[Code]](https://github.com/AndyJZhao/GLEM) [[Author]](https://andyjzhao.github.io/)
 
 1. [arXiv 2023] **Explanations as Features: LLM-Based Features for Text-Attributed Graphs** [[paper]](https://arxiv.org/pdf/2305.19523.pdf) [[Code]](https://github.com/XiaoxinHe/TAPE) [[Author]](https://xiaoxinhe.github.io/)
@@ -24,7 +26,7 @@
 
 1. [arXiv 2023] **Optimal Scene Graph Planning with Large Language Model Guidance** [[paper]](https://arxiv.org/pdf/2309.09182.pdf)
 
-1. [arXiv 2023] **AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models**[[paper]](https://arxiv.org/pdf/2307.11772.pdf)
+1. [arXiv 2023] **AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models** [[paper]](https://arxiv.org/pdf/2307.11772.pdf)
 
 1. [arXiv 2023] **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought** [[paper]](https://arxiv.org/pdf/2308.08614.pdf)
 
@@ -38,7 +40,7 @@
 
 1. [arXiv 2023] **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** [[paper]](https://arxiv.org/pdf/2308.09729.pdf)
 
-1. [arXiv 2023] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[paper]](https://arxiv.org/pdf/2308.11224.pdf)
+1. [arXiv 2023] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[paper]](https://arxiv.org/pdf/2308.11224.pdf) [[Code]](https://github.com/Ayame1006/LLMtoGraph)
 
 1. [arXiv 2023] **Enhancing Recommender Systems with Large Language Model Reasoning Graphs** [[paper]](https://arxiv.org/pdf/2308.10835.pdf)
 
