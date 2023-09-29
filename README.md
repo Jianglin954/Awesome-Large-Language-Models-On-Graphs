@@ -8,6 +8,8 @@
  
 ## Year 2023 [[Back to Top]](#)
 
+1. [arXiv 2023] **Graph Neural Prompting with Large Language Models** [[paper]](https://arxiv.org/pdf/2309.15427.pdf)
+
 1. [arXiv 2023] **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs** [[paper]](https://arxiv.org/pdf/2304.10668.pdf)
 
 1. [ICLR 2023] **Learning on Large-scale Text-attributed Graphs via Variational Inference** [[paper]](https://openreview.net/pdf?id=q0nmYciuuZN) [[Code]](https://github.com/AndyJZhao/GLEM) [[Author]](https://andyjzhao.github.io/)
