@@ -8,6 +8,9 @@
  
 ## Year 2023 [[Back to Top]](#)
 
+
+1. [arXiv 2023] **SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning** [[paper]](https://arxiv.org/pdf/2308.02565.pdf) [[Author]](https://kduan.live/)
+
 1. [arXiv 2023] **Graph Neural Prompting with Large Language Models** [[paper]](https://arxiv.org/pdf/2309.15427.pdf)
 
 1. [arXiv 2023] **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs** [[paper]](https://arxiv.org/pdf/2304.10668.pdf)
@@ -85,6 +88,8 @@
 1. [EMNLP 2022] **Empowering Language Models with Knowledge Graph Reasoning for Question Answering** [[paper]](https://aclanthology.org/2022.emnlp-main.650.pdf)
 
 1. [arXiv 2022] **Endowing Language Models with Multimodal Knowledge Graph Representations** [[paper]](https://arxiv.org/pdf/2206.13163.pdf)
+
+1. [NeurIPS 2022 Datasets and Benchmarks Track] **A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/23ee05bf1f4ade71c0f8f5ca722df601-Paper-Datasets_and_Benchmarks.pdf) [[Author]](https://kduan.live/)
 
 
 ## Year 2021 [[Back to Top]](#)
